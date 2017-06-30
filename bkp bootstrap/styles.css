@@ -1,0 +1,46 @@
+.navbar {
+        margin-bottom: 0;
+        border-radius: 0;
+        position: fixed; 
+        top: 0; 
+        width: 100%; 
+    }
+.main {
+    margin-top: 30px;
+}
+    
+
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}      
+
+.navbar{
+    background-color: #002060;
+}
+.deeply-diligent-logo{
+    height: 10px;
+    padding: 10px;   
+}
+.navbar-brand{
+    padding:0px;
+}
+.logo{
+    position: relative;
+    background: #002060;
+    height: 160px;
+}
+.container{
+    font-family: 'Roboto';
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.jumbotron{
+    height:auto;
+    background: url('https://upload.wikimedia.org/wikipedia/commons/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg') center 30% no-repeat;   
+    background-size: cover;
+}
+.container{
+    padding: 5% 5%;
+}
